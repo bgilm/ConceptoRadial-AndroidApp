@@ -18,10 +18,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/tab_fragment_1.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/tab_fragment_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/tab_fragment_2.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/tab_fragment_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/tab_fragment_3.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/tab_fragment_3.xml" />
     </list>
     <ignored path="ConceptoRadial-AndroidApp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -118,7 +115,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tab_fragment_2.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tab_fragment_2.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/tab_fragment_2.xml">
           <provider editor-type-id="text-editor">
             <state vertical-scroll-proportion="-3.75">
@@ -131,15 +128,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tab_fragment_3.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="tab_fragment_3.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/tab_fragment_3.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <provider editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.75">
+              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
               <folding />
             </state>
           </provider>
-          <provider editor-type-id="android-designer">
+          <provider selected="true" editor-type-id="android-designer">
             <state />
           </provider>
         </entry>
@@ -1839,7 +1836,6 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/styles.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values-v21/styles.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/tab_fragment_3.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/benn/conceptoradial/TabFragment1.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/benn/conceptoradial/TabFragment2.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/benn/conceptoradial/TabFragment3.java" />
@@ -1848,6 +1844,7 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/benn/conceptoradial/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/tab_fragment_1.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/tab_fragment_2.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/tab_fragment_3.xml" />
       </list>
     </option>
   </component>
@@ -2647,17 +2644,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/tab_fragment_3.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2708,6 +2694,17 @@
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.75">
           <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/tab_fragment_3.xml">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.75">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
           <folding />
         </state>
       </provider>
