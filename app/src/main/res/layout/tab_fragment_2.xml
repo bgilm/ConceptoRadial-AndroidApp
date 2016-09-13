@@ -4,12 +4,61 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_centerInParent="true"
-        android:text="Tab 2"
-        android:textAppearance="?android:attr/textAppearanceLarge"/>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
 
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Facebook"
+            android:id="@+id/textView7"
+            android:textAlignment="center"
+            android:background="#354b8a"
+            android:textColor="#fefefe"
+            android:textSize="80dp"
+            android:clickable="true"
+            android:gravity="center" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="YouTube"
+            android:id="@+id/textView3"
+            android:background="#df141d"
+            android:textColor="@android:color/white"
+            android:textAlignment="center"
+            android:textSize="80dp"
+            android:clickable="true"
+            android:gravity="center" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Instagram"
+            android:id="@+id/textView4"
+            android:background="#c3166f"
+            android:textColor="@android:color/white"
+            android:textAlignment="center"
+            android:textSize="80dp"
+            android:clickable="true"
+            android:gravity="center" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Twitter"
+            android:id="@+id/textView5"
+            android:background="#2591ef"
+            android:textColor="@color/abc_primary_text_material_dark"
+            android:textSize="80dp"
+            android:textAlignment="center"
+            android:clickable="true"
+            android:gravity="center" />
+    </LinearLayout>
 </RelativeLayout>
