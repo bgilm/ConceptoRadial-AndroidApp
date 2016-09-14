@@ -9,18 +9,18 @@
         <dex dex="/Users/Benn/Desktop/ITC/7mo semestre/Android/ConceptoRadial-AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_cf3c6c2fc29c1043b0bc9cd3d3684a34a7e63d15/classes.dex" />
     </item>
     <item
-        jar="/Users/Benn/Desktop/ITC/7mo semestre/Android/ConceptoRadial-AndroidApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.2"
-        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
-        <dex dex="/Users/Benn/Desktop/ITC/7mo semestre/Android/ConceptoRadial-AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_1eb1566175aeb54cdcc09fa57675f22cae4aaf9a/classes.dex" />
-    </item>
-    <item
         jar="/Users/Benn/Desktop/ITC/7mo semestre/Android/ConceptoRadial-AndroidApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
         jumboMode="true"
         revision="24.0.2"
         sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
         <dex dex="/Users/Benn/Desktop/ITC/7mo semestre/Android/ConceptoRadial-AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_c02346ecd85a1af73896d6cb9537ae23219fb5d7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Benn/Desktop/ITC/7mo semestre/Android/ConceptoRadial-AndroidApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/Benn/Desktop/ITC/7mo semestre/Android/ConceptoRadial-AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_1eb1566175aeb54cdcc09fa57675f22cae4aaf9a/classes.dex" />
     </item>
     <item
         jar="/Users/Benn/Desktop/ITC/7mo semestre/Android/ConceptoRadial-AndroidApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
@@ -33,7 +33,7 @@
         jar="/Users/Benn/Desktop/ITC/7mo semestre/Android/ConceptoRadial-AndroidApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.2"
-        sha1="3af980676ea01f163602198cf59ec19e71ba3d45">
+        sha1="f9bde0ff5d9f7dc3654e2caf4be0b3716ed7b419">
         <dex dex="/Users/Benn/Desktop/ITC/7mo semestre/Android/ConceptoRadial-AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8b7a20063a1b45b1dc7f3ad5ffe9a5efccedb9c6/classes.dex" />
     </item>
     <item
@@ -96,7 +96,7 @@
         jar="/Users/Benn/Desktop/ITC/7mo semestre/Android/ConceptoRadial-AndroidApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="24.0.2"
-        sha1="276adf6e25fedde2f519f6b7caa26565675545ba">
+        sha1="843e1c8e651da98d6fc03e95c541889fd70a21a8">
         <dex dex="/Users/Benn/Desktop/ITC/7mo semestre/Android/ConceptoRadial-AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2afb2a5c49037e27e2b831767ced30ac9bb3d333/classes.dex" />
     </item>
     <item
