@@ -1,5 +1,7 @@
     package com.example.benn.conceptoradial;
 
+    import android.content.Intent;
+    import android.net.Uri;
     import android.support.design.widget.FloatingActionButton;
     import android.support.design.widget.Snackbar;
     import android.support.design.widget.TabLayout;
@@ -11,17 +13,20 @@
     import android.support.v4.app.FragmentPagerAdapter;
     import android.support.v4.view.ViewPager;
     import android.os.Bundle;
+    import android.util.Log;
     import android.view.LayoutInflater;
     import android.view.Menu;
     import android.view.MenuItem;
     import android.view.View;
     import android.view.ViewGroup;
 
+    import android.widget.ImageButton;
     import android.widget.TextView;
+    import android.widget.Toast;
 
     public class MainActivity extends AppCompatActivity {
-
-        /**
+        ImageButton fbButton;
+           /**
          * The {@link android.support.v4.view.PagerAdapter} that will provide
          * fragments for each of the sections. We use a
          * {@link FragmentPagerAdapter} derivative, which will keep every
