@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="49ddf8ab7c0e2a0549f0e5f5ba2820703893b693">
+        sha1="34189625a14e6a731fc730dcf2a6744edcb40587">
         <dex dex="/Users/Benn/Desktop/ITC/7mo semestre/Android/ConceptoRadial-AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8b7a20063a1b45b1dc7f3ad5ffe9a5efccedb9c6/classes.dex" />
     </item>
     <item
@@ -34,7 +34,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="fae17d05caacc85254a0b599803e735759b653dd">
+        sha1="7ebedab9b0f5980ce1bb4ac92413e9a84a5e950d">
         <dex dex="/Users/Benn/Desktop/ITC/7mo semestre/Android/ConceptoRadial-AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2afb2a5c49037e27e2b831767ced30ac9bb3d333/classes.dex" />
     </item>
     <item

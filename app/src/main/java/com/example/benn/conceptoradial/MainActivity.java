@@ -1,5 +1,6 @@
     package com.example.benn.conceptoradial;
 
+    import android.app.FragmentTransaction;
     import android.content.Intent;
     import android.net.Uri;
     import android.support.design.widget.FloatingActionButton;
@@ -23,6 +24,8 @@
     import android.widget.ImageButton;
     import android.widget.TextView;
     import android.widget.Toast;
+
+    import static android.R.attr.data;
 
     public class MainActivity extends AppCompatActivity {
         ImageButton fbButton;
@@ -59,8 +62,8 @@
     //        mSectionsPagerAdapter = new SectionsPagerAdapter(getSupportFragmentManager());
     //
     //        // Set up the ViewPager with the sections adapter.
-    //        mViewPager = (ViewPager) findViewById(R.id.container);
-    //        mViewPager.setAdapter(mSectionsPagerAdapter);
+//            mViewPager = (ViewPager) findViewById(R.id.container);
+//            mViewPager.setAdapter(mSectionsPagerAdapter);
             final ViewPager viewPager = (ViewPager) findViewById(R.id.pager);
             final PagerAdapter adapter = new PagerAdapter
                     (getSupportFragmentManager(), tabLayout.getTabCount());
@@ -71,6 +74,9 @@
                                                    @Override
                                                    public void onTabSelected(TabLayout.Tab tab) {
 
+                                                       if(tab.getText().equals("Reproductor")) {
+
+                                                       }
                                                    }
 
                                                    @Override

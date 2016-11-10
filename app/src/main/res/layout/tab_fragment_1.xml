@@ -40,9 +40,11 @@
         <ImageButton
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/imageButton"
-            android:src="@android:drawable/ic_media_pause"
-            android:background="@android:color/transparent" />
+            android:id="@+id/button1"
+            android:src="@drawable/ic_play"
+            android:background="@android:color/transparent"
+            android:scaleX="0.5"
+            android:scaleY="0.5" />
 
     </LinearLayout>
 </RelativeLayout>
